@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox Descargar Firefox para Android e iOS",
+  "Type": "App",
+  "Id": "t-tazCxGG0C5EXbDXnBKeQ",
+  "Reference": "OKoIM5eA9EGRP0fVLN1Aaw/t-tazCxGG0C5EXbDXnBKeQ",
+  "Created": "2025-01-13T14:58:28.2671567Z",
+  "Updated": "2025-01-13T14:58:28.2671567Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

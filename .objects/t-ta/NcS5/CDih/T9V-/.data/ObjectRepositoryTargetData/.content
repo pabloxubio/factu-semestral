@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="voGynkP4BUuKuiFcNoTHMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="xubio.com/NXV/home" CVScreenId="c073b397-28b2-4218-a44f-e222765f3131" CvElementArea="78, 608, 160, 64" CvTextArea="137, 630, 42, 22" CvTextArgument="Ver" CvType="Button" DesignTimeRectangle="80, 610, 156, 60" DesignTimeScaleFactor="1.5" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='https://app.xubio.com:443/frontend/fe-dashboard-ar/empresa?token=17367811392311575117798688886308576256&amp;amp;tenant=153&amp;amp;empresaID=732' tag='IFRAME' /&gt;&lt;webctrl tag='A' type='' class='mat-focus-indicator button-large stroke-button margin-right-min cardButton mat-button mat-button-base' aaname=' Ver ' check:innerText='Ver' /&gt;" Guid="b86c1a4b-fdea-4bff-a407-520aa2a186a2" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Xubio - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4d0efc163de110711936be0d33eb0f07.png" xmlns="">0J6DizxxZ3k-ok3AwejGYEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

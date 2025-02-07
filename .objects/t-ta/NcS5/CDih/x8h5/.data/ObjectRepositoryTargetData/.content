@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q5kmlAVZkEyDd7eHVUl6vw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="xubio.com/NXV/home" CVScreenId="65c80caf-7455-4d7a-8b3c-28064f569193" CvElementArea="158, 847, 146, 58" CvTextArea="210, 867, 40, 19" CvTextArgument="Ver" CvType="Button" DesignTimeRectangle="161, 849, 142, 54" DesignTimeScaleFactor="1.3636363744735718" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='https://app.xubio.com:443/frontend/fe-dashboard-ar/empresa?token=17367812518457509122372735545679735597&amp;amp;tenant=271404&amp;amp;empresaID=293336' tag='IFRAME' /&gt;&lt;webctrl tag='A' type='' class='mat-focus-indicator button-large stroke-button margin-right-min cardButton mat-button mat-button-base' aaname=' Ver ' check:innerText='Ver' /&gt;" Guid="030795b3-08d7-4df4-b2d0-01b3cd14c327" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Xubio - Dashboard' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="65c80caf-7455-4d7a-8b3c-28064f569193" CvTextArea="168, 752, 288, 30" CvTextArgument="Comprobantes de Venta" CvType="Text" DesignTimeRectangle="111, 748, 406, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl src='https://app.xubio.com:443/frontend/fe-dashboard-ar/empresa?token=17367812518457509122372735545679735597&amp;amp;tenant=271404&amp;amp;empresaID=293336' tag='IFRAME' /&gt;&lt;webctrl parentid='mat-tab-content-0-0' tag='H4' type='' class='cardTitle bold' aaname='Comprobantes de Venta' check:innerText='Comprobantes de Venta' /&gt;" Guid="d42184bb-6688-4340-b506-db1c0e2b6897" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c70419a4581802452360730d05c6ba1f.png" xmlns="">0tcvhwr3cRkejlGlMzgTzhw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

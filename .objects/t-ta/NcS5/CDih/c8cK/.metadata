@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Ingresar",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "c8cKEVBr40OVYARIORfQhg",
+  "Reference": "OKoIM5eA9EGRP0fVLN1Aaw/c8cKEVBr40OVYARIORfQhg",
+  "ParentRef": "OKoIM5eA9EGRP0fVLN1Aaw/CDihI_wcOUeII3EEyokGgA",
+  "Created": "2025-01-13T15:05:02.8017272Z",
+  "Updated": "2025-01-13T15:05:02.8017272Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

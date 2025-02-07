@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Yq0Dd4WVCkmWjHKiULfA3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="xubio.com./NXV/newLogin" CVScreenId="989b7fae-9df1-42d0-87dc-a86681ca4607" CvElementArea="614, 739, 710, 61" CvTextArea="921, 759, 99, 27" CvTextArgument="Ingresar" CvType="Button" DesignTimeRectangle="617, 742, 708, 57" DesignTimeScaleFactor="1.5" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='loginbuton' tag='INPUT' type='submit' class='' aaname='Ingresar' check:text='Ingresar' /&gt;" Guid="efa30b16-0f3b-4ad1-b5d3-8f1755c653c9" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Xubio' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e0555a6a5f5585de72b4db0739c0c222.png" xmlns="">0UYRNw9HwEUGjYkwA6H5y7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

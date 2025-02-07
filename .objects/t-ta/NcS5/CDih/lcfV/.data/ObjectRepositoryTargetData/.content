@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="b2jVAwSN6UOR1Ag9AnSQfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="xubio.com./NXV/newLogin" CVScreenId="1ac4ec37-67c3-4f54-82ad-46119284d99e" CvElementArea="615, 441, 713, 87" CvType="InputBox" DesignTimeRectangle="617, 444, 707, 83" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='userName' tag='INPUT' type='text' class='' placeholder='Email' aaname='' /&gt;" Guid="16536462-d058-4132-b3cf-2a3bce70436b" ScopeSelectorArgument="&lt;html app='firefox.exe' title='Xubio' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="104660116faa40e84a38453af5179a63.png" xmlns="">0tVlrRU07tkKo2E3bU4_Gag</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
